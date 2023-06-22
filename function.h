@@ -1,0 +1,11 @@
+char  *add( char *, char *);
+char *sub(char *a, char *b);
+int readline(char *arr, int len);
+int checkstr(char str[]);
+void multiply(char a[], char b[], char c[]);
+void removezero(char a[]);
+int compare(char a[],char b[]);
+char *powminus(char a[]);
+char *power(char a[], char b[], char c[]);
+char *modulo(char *a, char *b, char *c, char *d);
+void division(char *a, char *b, char *c, char *d);
